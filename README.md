@@ -5,6 +5,7 @@ type TestResource struct {
 	closed bool
 }
 
+
 func(tr TestResource) Close() {
 	if !tr.closed {
 		count.Add(-1)
