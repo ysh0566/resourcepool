@@ -1,4 +1,3 @@
-### 资源池:
 ```
 type TestResource struct {
 	id int64
