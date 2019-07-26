@@ -1,4 +1,4 @@
-![](https://travis-ci.com/ysh0566/resourcepool.svg?branch=master)
+[![](https://travis-ci.com/ysh0566/resourcepool.svg?branch=master)](https://travis-ci.com/ysh0566/resourcepool)
 ```
 type TestResource struct {
 	id int64
