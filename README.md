@@ -1,3 +1,4 @@
+![](https://travis-ci.com/ysh0566/resourcepool.svg?branch=master)
 ```
 type TestResource struct {
 	id int64
